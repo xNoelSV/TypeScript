@@ -10,5 +10,5 @@
   // console.log(batman.) // No obtiene ayuda de batman si es type any
   console.log(batman.toUpperCase());
 
-  console.log(batman[10])
+  console.log(batman[10]?.toUpperCase() || 'No está presente');
 })();
