@@ -25,8 +25,9 @@ console.log(hero.age + 1)
     // console.log(msg)
   }
 */
-
 (() => {
   const a: number = 10; // constante, pero le ponemos el tipo number
   console.log(a)
-})() 
+
+  
+})();

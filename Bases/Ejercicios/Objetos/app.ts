@@ -27,6 +27,7 @@ const bumblebee: superCoches = {
   }
 };
 
+console.log('Hola')
 
 // Villanos debe de ser un arreglo de objetos personalizados
 
