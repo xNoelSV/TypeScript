@@ -109,7 +109,7 @@
   "exclude": [
     "Carpeta_excluida/*.ts"
   ],
-  /* "include": [
-    "Carpeta_excluida/*.ts"
-  ] */
+  "include": [
+    "ES6"
+  ] 
 }
