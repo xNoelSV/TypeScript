@@ -22,6 +22,13 @@
     console.log(ironman, resto);
   }
 
-  console.log(printAvenger);
+  printAvenger(avengers);
 
-})
+  const avengersArr:[string, boolean, number] = ['Cap. América', true, 150.15];
+  
+  //const ironman = avengersArr[1];
+  const [ capitan , ironman, seriaUnNumero] = avengersArr;
+
+  console.log({ ironman, capitan })
+
+})();
