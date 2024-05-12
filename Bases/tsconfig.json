@@ -110,6 +110,6 @@
     "Carpeta_excluida/*.ts"
   ],
   "include": [
-    "Interfaces"
+    "Namespaces"
   ] 
 }
