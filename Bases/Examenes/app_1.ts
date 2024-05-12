@@ -38,6 +38,6 @@
   //const largoDelPoder:number = parseInt(<string>poder.length);
   const largoDelPoder:number = (poder as string).length;
   console.log(largoDelPoder);
-})()
+})();
   
   
